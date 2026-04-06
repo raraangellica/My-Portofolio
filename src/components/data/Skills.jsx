@@ -1,0 +1,15 @@
+export const Skills = [
+  { id: 1, name: "HTML", img: "/html5.png" },
+  { id: 2, name: "CSS", img: "/css.png" },
+  { id: 3, name: "Tailwind", img: "/tailwind.png" },
+  { id: 4, name: "Boostrap", img: "/boostrap.jpeg" },
+  { id: 5, name: "Javascript", img: "/javascript.png" },
+  { id: 6, name: "PHP", img: "/PHP.png" },
+  { id: 7, name: "React", img: "/React.png" },
+  { id: 8, name: "Typescipt", img: "/ts.png" },
+  { id: 9, name: "MySQL", img: "/MySQL.png" },
+  { id: 10, name: "Laravel", img: "/laravel.png" },
+  { id: 11, name: "NodeJs", img: "/NodeJs.png" },
+  { id: 12, name: "Express.Js", img: "/express.png" },
+  { id: 13, name: "Next.Js", img: "/nextjs.png" },
+];
