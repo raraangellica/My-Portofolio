@@ -2,7 +2,7 @@ import { Projects } from "../data/Projext.jsx";
 
 const MyProjects = () => {
   return (
-    <div className="bg-slate-900 h-110 sm:h-100 pl-2 sm:pl-5">
+    <div id="project" className="bg-slate-900 h-110 sm:h-100 pl-2 sm:pl-5">
       <h3 className="textH3">My Projects</h3>
       <div>
         {Projects.map((item) => (
