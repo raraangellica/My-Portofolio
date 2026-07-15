@@ -11,6 +11,7 @@ const Profile = () => {
           scale: { type: "spring", visualDuration: 0.4, bounce: 0.5 },
         }}
       >
+        <p className="text-2xl text-gray-400">FullStack Developer</p>
         <h2 className="text-4xl font-bold text-pink-500">
           RARA ANGELLICA <span className="text-purple-600">STEFANI PUTRI</span>
         </h2>

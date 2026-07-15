@@ -7,10 +7,10 @@ const AboutMe = () => {
         <h3 className="textH3">About Me</h3>
         <p>
           I'm experienced in building applications web and skilled in HTML,
-          CSS,Tailwind,Boostrap, Javascript, PHP, React,Typescipt,MySQL,
-          NodeJs(Express.Js,Next.Js). A detail-person who enjoys learning new
-          things and currently looking for new opportunity as an Full Stack
-          Developer
+          CSS,Tailwind,Boostrap, Javascript, PHP, React,Typescipt, MySQL,
+          MariaDB, PostgreSQL, Laravel, NodeJs(Express.Js,Next.Js). A
+          detail-person who enjoys learning new things and currently looking for
+          new opportunity as an FullStack Developer
         </p>
       </div>
       <div id="skills" className="textH3">
